@@ -2,10 +2,9 @@
 
 ## ¿Qué es un árbol binario?
 
-Un árbol binario es una estructura de datos donde cada nodo tiene como máximo dos hijos:
-uno izquierdo y uno derecho.
+Un árbol binario organiza los datos de forma jerárquica, donde cada nodo puede tener un hijo izquierdo y uno derecho.
 
-Se utiliza para organizar información de forma jerárquica.
+Esta estructura permite realizar operaciones de búsqueda de manera eficiente.
 
 ## ¿Cómo funciona?
 
