@@ -19,6 +19,21 @@ El recorrido inorden sigue este orden:
 
 Izquierda → Raíz → Derecha
 
+## Ejemplo práctico
+
+Insertando los números: 10, 5, 20, 3, 7
+
+El árbol se organiza así:
+
+        10
+       /  \
+      5    20
+     / \
+    3   7
+
+Recorrido inorden:
+3 5 7 10 20
+
 ## Ejemplo de ejecución
 
 Si insertamos: 10, 5, 20, 3, 7
