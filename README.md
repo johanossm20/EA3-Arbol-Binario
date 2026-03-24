@@ -34,6 +34,16 @@ El árbol se organiza así:
 Recorrido inorden:
 3 5 7 10 20
 
+## Búsqueda en el árbol
+
+El programa permite buscar un número dentro del árbol binario.
+
+Si el número existe, muestra:
+"Número encontrado"
+
+Si no existe, muestra:
+"Número NO existe"
+
 ## Ejemplo de ejecución
 
 Si insertamos: 10, 5, 20, 3, 7
