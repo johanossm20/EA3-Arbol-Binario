@@ -20,7 +20,7 @@ El recorrido inorden sigue este orden:
 
 Izquierda → Raíz → Derecha
 
-Ejemplo:
+## Ejemplo de ejecución
 
 Si insertamos: 10, 5, 20, 3, 7
 
